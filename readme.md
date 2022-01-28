@@ -1,8 +1,11 @@
+## Introduction:
+
+This is a school project targeted to design a University Registration System which needs to satisfy the following requirements.
+
 ## The following is my overal design for this project:
 ![myDesign](img/overallDesign.jpg)
 
-## Introduction & Requirements:
-This is a school project targeted to design a University Registration System which needs to satisfy the following requirements.
+##  Requirements:
 
 "Consider the situation where you are hired as a software developer by a new university in your hometown. The university administration wants you to design and implement a Course Registration System (CRS).
 As we discussed in class, the very first step of software engineering is Requirements Gathering and Analysis.
