@@ -1,4 +1,4 @@
-##Introduction & Requirements:
+## Introduction & Requirements:
 This is a school project targeted to design a University Registration System which needs to satisfy the following requirements.
 
 "Consider the situation where you are hired as a software developer by a new university in your hometown. The university administration wants you to design and implement a Course Registration System (CRS).
@@ -60,5 +60,5 @@ You will need to decide on how to keep track on student’s courses if needed. Y
 Serializing an object allows the programmer to convert the state of that object into a byte stream that can
 be reverted back into a copy of the object. A Java object is serializable if its class or any of its superclasses implements either the java.io.Serializable interface or its subinterface, java.io.Externalizable. Deserialization is the process of converting the serialized form of an object back into a copy of the object. You will need to use Serialization to store an object permanently (in this assignment’s case it could be used to store the ArrayLists of Student object and the ArrayList of the courses object). Deserialization will be used to read the files where you stored the objects, so you can use them again in your program. When the program exists, you will need to write the latest copy of the ArrayLists or the object you are using into your program into the serialized binary file. The moment you launch your program, you will need to read the files to initiate your objects in your program.
 
-##The following is my overal design for this project:
+## The following is my overal design for this project:
 ![myDesign](img/overallDesign.jpg)
