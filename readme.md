@@ -1,6 +1,6 @@
 ## Introduction:
 
-This is a school project targeted to use OOP to design a University Registration System which needs to satisfy the following requirements.
+This is a school project targeted to use OOP to design a University Registration System which needs to satisfy the following requirements.  
 
 ## The following is my overal design for this project:
 ![myDesign](img/overallDesign.jpg)
